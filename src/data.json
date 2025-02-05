@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Paella Valenciana",
+    "recipeText": "Recuerdo cuando mi abuela solía preparar esta paella los domingos. Con paciencia y amor, nos enseñó que el secreto está en respetar cada ingrediente y en cocinar con el corazón. Su madre se lo había enseñado a ella, y así ha pasado de generación en generación. Hoy quiero compartir contigo esta receta que sabe a hogar y a reunión familiar.",
+    "ingredients": [
+      { "nombre": "arroz", "cantidad": "2 tazas" },
+      { "nombre": "pollo", "cantidad": "500g" },
+      { "nombre": "conejo", "cantidad": "500g" },
+      { "nombre": "garrofó", "cantidad": "1 taza" },
+      { "nombre": "tomate", "cantidad": "2" },
+      { "nombre": "azafrán", "cantidad": "1 pizca" }
+    ],
+    "steps": [
+      {
+        "text": "Calienta el aceite en la paellera a fuego medio. Este paso es crucial, porque el aceite debe estar bien caliente antes de añadir la carne. De esta manera, se sellarán los jugos y se intensificará el sabor.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURmUOAKUS21m8vsZ1ZMjelITgLPDDO3fjEQ&s"
+      },
+      {
+        "text": "Dora el pollo y el conejo con paciencia, girándolos ocasionalmente. Mi abuela decía que había que escuchar cómo cruje la piel para saber que están en su punto justo.",
+        "image": "https://www.brillante.es/wp-content/uploads/2025/01/6-ENSALDA-DE-QUINOA-Y-POLLO.jpg"
+      },
+      {
+        "text": "Añade el tomate rallado y el garrofó. Cocina a fuego lento para que los sabores se integren. Mi madre solía decir que aquí es donde la paella empieza a tomar su carácter.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWc_qCTqPuWRLh7NX_YnROogU9qE7ay4exzQ&s"
+      },
+      {
+        "text": "Es el momento del arroz y el azafrán. Espárcelos con cariño y no los remuevas demasiado. Deja que el arroz absorba los sabores poco a poco.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGVfKeSVrqJo2Rxu6gkh1fy_llfwyWQFNpw&s"
+      },
+      {
+        "text": "Cocina a fuego lento hasta que el arroz esté en su punto. Recuerda que una buena paella se disfruta con la familia y con una buena conversación alrededor de la mesa.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ10mEKc3jpXO0UjD9ZYRZ4gxkt35L2K09nA&s"
+      }
+    ],
+    "comensales": 4,
+    "selectedCountry": "España",
+    "image": "https://images.ctfassets.net/lufu0clouua1/2qUGdB4SXoLbzrqXAvbF2g/95516b632b32057ec1cf2ea4c335fbdc/EASY_SPANISH_PAELLA_06_27_2218291__1_.jpg",
+    "tiempoTotal": "1 hora 30 minutos",
+    "tags": ["salado", "arroz", "Europa"]
+  },
+  {
+    "id": 2,
+    "title": "Tacos al Pastor",
+    "recipeText": "Estos tacos al pastor son una receta que aprendí de un amigo de México, quien me contó que su abuela los preparaba para las fiestas familiares. El secreto está en el marinado de la carne y en la piña, que le da un toque dulce y ácido que combina perfectamente con el cerdo. Cada vez que los hago, me transporto a esas calles de Ciudad de México, donde los tacos se sirven en puestos callejeros y el aroma de la carne asada llena el aire.",
+    "ingredients": [
+      { "nombre": "carne de cerdo", "cantidad": "1 kg" },
+      { "nombre": "achiote", "cantidad": "50g" },
+      { "nombre": "piña", "cantidad": "1 taza" },
+      { "nombre": "cebolla", "cantidad": "1" },
+      { "nombre": "cilantro", "cantidad": "1 manojo" },
+      { "nombre": "tortillas de maíz", "cantidad": "12" }
+    ],
+    "steps": [
+      {
+        "text": "Marina la carne de cerdo con una mezcla de especias, ajo, vinagre y chiles. Mi amigo me enseñó que el marinado debe reposar al menos 4 horas, pero idealmente toda la noche, para que la carne absorba todos los sabores. Las especias deben incluir achiote, que le da ese color rojizo tan característico..",
+        "image": "https://img-global.cpcdn.com/recipes/929beca3e0cba7de/200x200cq70/pierna-de-cerdo-en-achiote-foto-principal.jpg"
+      },
+      {
+        "text": "Asa la carne en un trompo o en una parrilla, girándola lentamente para que se cocine uniformemente. La piña se coloca en la parte superior del trompo, para que su jugo caiga sobre la carne y la mantenga jugosa. Este paso es crucial para que los tacos tengan ese sabor ahumado y caramelizado que tanto nos gusta.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGEcN_t52TRn4vjL2TAWhUKIANbB3j2GXKFw&s"
+      },
+      {
+        "text": "Corta la carne en tiras finas y sirve en tortillas calientes. Las tortillas deben estar recién hechas, para que sean suaves y flexibles. Añade un poco de piña asada, cebolla picada y cilantro fresco. Mi amigo siempre decía que un buen taco al pastor debe tener un equilibrio perfecto entre lo dulce, lo ácido y lo picante.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCIVpUZZaiI2qODw9fXtSEDuJcXnySnIvtQ&s"
+      },
+      {
+        "text": "Acompaña los tacos con salsa verde o roja, al gusto. La salsa debe ser fresca y picante, para contrastar con la dulzura de la piña. Sirve con unas rodajas de limón y un poco de guacamole, para que cada bocado sea una explosión de sabores.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj1uqtlnxkbgJj7wejKUNYe0fNkp7vWo7g9g&s"
+      }
+    ],
+    "comensales": 4,
+    "selectedCountry": "México",
+    "image": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/05/al-pastor-3507w.jpg",
+    "tiempoTotal": "1 hora",
+    "tags": ["salado", "carne", "Latinoamérica"]
+  },
+  {
+    "id": 3,
+    "title": "Ceviche Peruano",
+    "recipeText": "Este ceviche es una receta que aprendí de mi madre, quien a su vez la aprendió de su abuela, una mujer de la costa peruana. Ella decía que el secreto estaba en el limón y en la frescura del pescado. Cada vez que lo preparo, me transporto a esas tardes en Lima, donde el marisco fresco y el ají limo eran los protagonistas de la mesa. Es un plato que se hace en un abrir y cerrar de ojos, pero que deja un sabor inolvidable.",
+    "ingredients": [
+      { "nombre": "pescado blanco", "cantidad": "500 gramos" },
+      { "nombre": "limón", "cantidad": "10 unidades" },
+      { "nombre": "cebolla morada", "cantidad": "1 unidad" },
+      { "nombre": "ají limo", "cantidad": "1 unidad" },
+      { "nombre": "cilantro", "cantidad": "1 puñado" },
+      { "nombre": "camote", "cantidad": "2 unidades" }
+    ],
+    "steps": [
+      {
+        "text": "Corta el pescado en cubos pequeños, asegurándote de que esté bien fresco. Mi madre siempre decía que el pescado debe tener un olor a mar, no a pescado. Si huele fuerte, no lo uses. Los cubos deben ser del tamaño de un bocado, para que se marine bien y sea fácil de comer.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXtP6FLnw04ZCQBAfCEgxiIGgeSKmqXB1Pw&s"
+      },
+      {
+        "text": "Marina el pescado en jugo de limón durante unos 10 minutos, removiendo de vez en cuando. El limón debe cubrir completamente el pescado, para que se cocine bien. Mi abuela decía que el pescado está listo cuando cambia de color y se vuelve opaco. Este paso es crucial para que el ceviche quede perfecto.",
+        "image": "https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2023/02/Copia-de-C-EdCiencia-P-2023-02-05T131756.797.jpg?resize=800%2C451&ssl=1"
+      },
+      {
+        "text": "Agrega la cebolla morada finamente picada, el ají limo sin semillas y el cilantro fresco. La cebolla debe estar en juliana fina, para que no domine el sabor. El ají limo le da un toque picante, pero si prefieres menos picante, puedes usar solo la mitad. El cilantro le da un aroma fresco que combina perfectamente con el limón.",
+        "image": "https://previews.123rf.com/images/nilswey/nilswey1502/nilswey150200198/36324040-mont%C3%B3n-de-fresco-picado-finamente-la-cebolla-roja-con-un-pelado-ayudado-muestra-una-secci%C3%B3n.jpg"
+      },
+      {
+        "text": "Sirve el ceviche con rodajas de camote cocido y choclo. El camote debe estar tierno pero firme, para que contraste con la textura del pescado. Mi madre siempre acompañaba el ceviche con unas hojas de lechuga y un poco de cancha serrana, para darle un toque crujiente.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOnQumYKK8fkAitiGkJWH_Q6DWesCsMwRDg&s"
+      }
+    ],
+    "comensales": 2,
+    "selectedCountry": "Perú",
+    "image": "https://www.gourmet.cl/wp-content/uploads/2024/01/CEVICHE.jpg",
+    "tiempoTotal": "30 minutos",
+    "tags": ["liviano", "pescado", "Peru", "fusion"]
+  },
+  {
+    "id": 4,
+    "title": "Feijoada",
+    "recipeText": "Esta feijoada es una receta que aprendí de mi tía brasileña, quien la preparaba los sábados para toda la familia. Ella decía que el secreto estaba en la paciencia y en la mezcla de carnes, que le dan un sabor único y reconfortante. Cada vez que la hago, me transporto a esas tardes en Río de Janeiro, donde el aroma de los frijoles negros y las carnes lentamente cocinadas llenaban la casa.",
+    "ingredients": [
+      { "nombre": "frijoles negros", "cantidad": "500 gramos" },
+      { "nombre": "carne de cerdo", "cantidad": "300 gramos" },
+      { "nombre": "chorizo", "cantidad": "200 gramos" },
+      { "nombre": "costillas", "cantidad": "200 gramos" },
+      { "nombre": "cebolla", "cantidad": "2 unidades" },
+      { "nombre": "ajo", "cantidad": "4 dientes" }
+    ],
+    "steps": [
+      {
+        "text": "Cocina los frijoles negros en una olla grande con agua y un poco de sal. Mi tía siempre decía que los frijoles deben cocinarse a fuego lento, para que queden tiernos pero no se deshagan. Este paso puede tomar unas 2 horas, pero el resultado vale la pena.",
+        "image": "https://img-global.cpcdn.com/recipes/062acbb23fdaa420/400x400cq70/photo.jpg"
+      },
+      {
+        "text": "Agrega las carnes a la olla y cocina a fuego lento durante al menos 1 hora. Las carnes deben estar bien cocidas y tiernas, para que se deshagan fácilmente al servir. Mi tía siempre añadía un poco de laurel y comino, para darle un toque aromático a la feijoada.",
+        "image": "https://res.cloudinary.com/postedin/image/upload/d_cookcina:no-image.jpg,w_340,c_thumb,f_auto,q_80/cookcina/i-10878.jpeg"
+      },
+      {
+        "text": "Sirve la feijoada con arroz blanco y farofa. El arroz debe estar bien suelto y la farofa crujiente, para contrastar con la textura cremosa de los frijoles. Mi tía siempre acompañaba la feijoada con unas rodajas de naranja, para cortar la grasa de las carnes.",
+        "image": "https://previews.123rf.com/images/giovanniseabra/giovanniseabra2211/giovanniseabra221100200/194111499-deliciosa-feijoada-brasile%C3%B1a-con-ensalada-de-arroz-farofa-servida-en-un-taz%C3%B3n-sobre-un-trozo-de.jpg"
+      }
+    ],
+    "comensales": 6,
+    "selectedCountry": "Brasil",
+    "image": "https://s2-receitas.glbimg.com/MCP20mT07zqFPIBjY1WhnP-IpPg=/0x0:1280x590/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/3/q/mhWLR8QlaB4PyVXVrTSA/whatsapp-image-2021-05-19-at-15.51.20.jpeg",
+    "tiempoTotal": "2 horas",
+    "tags": ["arroz", "carne", "Brazil", "salado"]
+  },
+  {
+    "id": 5,
+    "title": "Empanadas Argentinas",
+    "recipeText": "Aquí quiero guardar la receta de estas empanadas que nos compartieron unos amigos de Argentina y que siempre enfatizaban que solo ellos saben cómo hacerlas bien. Ellos decían que el secreto estaba en el relleno, que debía ser jugoso pero no demasiado húmedo, para que la masa no se rompiera al hornearlas. Cada vez que las hago, me transporto a esas tardes en Buenos Aires, donde el aroma de las empanadas recién horneadas llenaba la cocina.",
+    "ingredients": [
+      { "nombre": "masa para empanadas", "cantidad": "500 gramos" },
+      { "nombre": "carne molida", "cantidad": "300 gramos" },
+      { "nombre": "cebolla", "cantidad": "2 unidades" },
+      { "nombre": "huevo duro", "cantidad": "2 unidades" },
+      { "nombre": "aceitunas", "cantidad": "12 unidades" },
+      { "nombre": "pimentón", "cantidad": "1 cucharadita" }
+    ],
+    "steps": [
+      {
+        "text": "Prepara el relleno salteando la carne molida con cebolla picada, ajo y especias. Mi abuela siempre añadía un poco de pimentón y comino, para darle un sabor ahumado y aromático. El relleno debe cocinarse hasta que la carne esté bien dorada y la cebolla transparente.",
+        "image": "https://www.recetasnestle.cl/sites/default/files/styles/crop_article_banner_desktop_nes/public/2022-05/recetas-carne-molida-sarten.jpg.jpg?itok=aMRQECPq"
+      },
+      {
+        "text": "Rellena las masas con la mezcla de carne, añadiendo un trozo de huevo duro y una aceituna en cada empanada. Mi abuela siempre decía que el huevo y la aceituna son el toque mágico que hace que cada bocado sea especial. Cierra las empanadas sellando los bordes con un repulgue, para que no se abran al hornear.",
+        "image": "https://www.laylita.com/recetas/wp-content/uploads/Masa-para-empanadas-de-horno.jpg"
+      },
+      {
+        "text": "Hornea las empanadas a 180°C durante 20-25 minutos, hasta que estén doradas. Mi abuela siempre las pintaba con un poco de huevo batido antes de hornear, para que quedaran brillantes y crujientes. Sirve calientes, acompañadas de una salsa criolla o chimichurri.",
+        "image": "https://www.recetasnestle.com.co/sites/default/files/srh_recipes/a0bb1c51e9d0a1838c55837a9829064f.png"
+      }
+    ],
+    "comensales": 4,
+    "selectedCountry": "Argentina",
+    "image": "https://www.allrecipes.com/thmb/TKLoxPeMbtKZ4dEXT55rsb6KPcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Empanadas-Beef-Turnovers-215231-Beauty-2x1-3f7e1ab91fad4ae9881a90ffbeee44a5.jpg",
+    "tiempoTotal": "45 minutos",
+    "tags": ["entrada", "Argentina", "salado"]
+  }
+]

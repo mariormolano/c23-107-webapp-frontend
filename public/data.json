@@ -1,0 +1,152 @@
+{
+  "user": {
+    "name": "Sarah Johnson",
+    "imgThumbnail": "SarahJohnson.png",
+    "description": "Cada receta tiene su magia: es un pedacito de historia que vuelve a cobrar vida en la mesa.",
+    "countRecipes": 5,
+    "country": "Uruguay"
+  },
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Paella Valenciana",
+      "recipeText": "La paella valenciana es un plato tradicional de la Comunidad Valenciana, España.",
+      "ingredients": ["arroz", "pollo", "conejo", "garrofó", "tomate", "azafrán"],
+      "steps": [
+        {
+          "text": "Calentar el aceite en la paellera.",
+          "image": "https://ejemplo.com/paella-paso1.jpg"
+        },
+        {
+          "text": "Dorar el pollo y el conejo.",
+          "image": "https://ejemplo.com/paella-paso2.jpg"
+        },
+        {
+          "text": "Añadir el tomate y los garrofós.",
+          "image": "https://ejemplo.com/paella-paso3.jpg"
+        },
+        {
+          "text": "Agregar el arroz y el azafrán.",
+          "image": "https://ejemplo.com/paella-paso4.jpg"
+        },
+        {
+          "text": "Cocinar a fuego lento hasta que el arroz esté listo.",
+          "image": "https://ejemplo.com/paella-paso5.jpg"
+        }
+      ],
+      "comensales": 4,
+      "selectedCountry": "España",
+      "image": "https://images.ctfassets.net/lufu0clouua1/2qUGdB4SXoLbzrqXAvbF2g/95516b632b32057ec1cf2ea4c335fbdc/EASY_SPANISH_PAELLA_06_27_2218291__1_.jpg",
+      "tiempoTotal": "1 hora 30 minutos",
+      "tags": ["salado", "arroz", "Europa"]
+    },
+    {
+      "id": 2,
+      "title": "Ceviche Peruano",
+      "recipeText": "El ceviche es un plato típico de la gastronomía peruana, hecho a base de pescado fresco marinado en limón.",
+      "ingredients": ["pescado blanco", "limón", "cebolla morada", "ají limo", "cilantro", "camote"],
+      "steps": [
+        {
+          "text": "Cortar el pescado en cubos.",
+          "image": "https://ejemplo.com/ceviche-paso1.jpg"
+        },
+        {
+          "text": "Marinar el pescado en jugo de limón.",
+          "image": "https://ejemplo.com/ceviche-paso2.jpg"
+        },
+        {
+          "text": "Agregar la cebolla, el ají y el cilantro.",
+          "image": "https://ejemplo.com/ceviche-paso3.jpg"
+        },
+        {
+          "text": "Servir con camote y choclo.",
+          "image": "https://ejemplo.com/ceviche-paso4.jpg"
+        }
+      ],
+      "comensales": 2,
+      "selectedCountry": "Perú",
+      "image": "https://www.gourmet.cl/wp-content/uploads/2024/01/CEVICHE.jpg",
+      "tiempoTotal": "30 minutos",
+      "tags": ["liviano", "pescado", "Peru", "fusion"]
+    },
+    {
+      "id": 3,
+      "title": "Tacos al Pastor",
+      "recipeText": "Los tacos al pastor son un platillo mexicano hecho con carne de cerdo marinada y piña.",
+      "ingredients": ["carne de cerdo", "piña", "cebolla", "cilantro", "tortillas", "salsa"],
+      "steps": [
+        {
+          "text": "Marinar la carne de cerdo con especias.",
+          "image": "https://ejemplo.com/tacos-paso1.jpg"
+        },
+        {
+          "text": "Asar la carne en un trompo.",
+          "image": "https://ejemplo.com/tacos-paso2.jpg"
+        },
+        {
+          "text": "Cortar la carne en tiras finas.",
+          "image": "https://ejemplo.com/tacos-paso3.jpg"
+        },
+        {
+          "text": "Servir en tortillas con piña, cebolla y cilantro.",
+          "image": "https://ejemplo.com/tacos-paso4.jpg"
+        }
+      ],
+      "comensales": 3,
+      "selectedCountry": "México",
+      "image": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2021/05/al-pastor-3507w.jpg",
+      "tiempoTotal": "1 hora",
+      "tags": ["carne", "picante", "salado"]
+    },
+    {
+      "id": 4,
+      "title": "Feijoada",
+      "recipeText": "La feijoada es un plato brasileño hecho con frijoles negros y carnes variadas.",
+      "ingredients": ["frijoles negros", "carne de cerdo", "chorizo", "costillas", "cebolla", "ajo"],
+      "steps": [
+        {
+          "text": "Cocinar los frijoles negros.",
+          "image": "https://ejemplo.com/feijoada-paso1.jpg"
+        },
+        {
+          "text": "Agregar las carnes y cocinar a fuego lento.",
+          "image": "https://ejemplo.com/feijoada-paso2.jpg"
+        },
+        {
+          "text": "Servir con arroz y farofa.",
+          "image": "https://ejemplo.com/feijoada-paso3.jpg"
+        }
+      ],
+      "comensales": 6,
+      "selectedCountry": "Brasil",
+      "image": "https://s2-receitas.glbimg.com/MCP20mT07zqFPIBjY1WhnP-IpPg=/0x0:1280x590/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/3/q/mhWLR8QlaB4PyVXVrTSA/whatsapp-image-2021-05-19-at-15.51.20.jpeg",
+      "tiempoTotal": "2 horas",
+      "tags": ["arroz", "carne", "Brazil", "salado"]
+    },
+    {
+      "id": 5,
+      "title": "Empanadas Argentinas",
+      "recipeText": "Las empanadas argentinas son un plato típico relleno de carne, huevo y aceitunas.",
+      "ingredients": ["masa para empanadas", "carne molida", "cebolla", "huevo duro", "aceitunas", "pimentón"],
+      "steps": [
+        {
+          "text": "Preparar el relleno con carne, cebolla y especias.",
+          "image": "https://ejemplo.com/empanadas-paso1.jpg"
+        },
+        {
+          "text": "Rellenar las masas y cerrarlas.",
+          "image": "https://ejemplo.com/empanadas-paso2.jpg"
+        },
+        {
+          "text": "Hornear hasta que estén doradas.",
+          "image": "https://ejemplo.com/empanadas-paso3.jpg"
+        }
+      ],
+      "comensales": 4,
+      "selectedCountry": "Argentina",
+      "image": "https://www.allrecipes.com/thmb/TKLoxPeMbtKZ4dEXT55rsb6KPcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Empanadas-Beef-Turnovers-215231-Beauty-2x1-3f7e1ab91fad4ae9881a90ffbeee44a5.jpg",
+      "tiempoTotal": "45 minutos",
+      "tags": ["entrada", "Argentina", "salado"]
+    }
+  ]
+}
